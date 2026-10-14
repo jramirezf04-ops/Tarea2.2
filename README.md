@@ -2,6 +2,9 @@
 
 ## Práctica: instalar tres SGBD
 
+### Características de la máquina
+![características máquina](images/16.png)
+
 ### 1. Desplegar Oracle Database 23ai Free con Podman
 
 #### Primero deberemos instalar Podman y descargar la imagen de Oracle
