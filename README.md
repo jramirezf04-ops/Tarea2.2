@@ -1,10 +1,10 @@
 # Tarea2.2
 
-##Práctica: instalar tres SGBD
+## Práctica: instalar tres SGBD
 
-###1. Desplegar Oracle Database 23ai Free con Podman
+### 1. Desplegar Oracle Database 23ai Free con Podman
 
-####Primero deberemos instalar Podman y descargar la imagen de Oracle
+#### Primero deberemos instalar Podman y descargar la imagen de Oracle
 Para ello utilizaremos los siguientes comando
 * sudo apt update
 * sudo apt install podman
