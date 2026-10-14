@@ -98,6 +98,8 @@ Ahora comprobaremos el acceso local con el siguiente comando:
 
 ### Resumen y comprobaciones  
 
+- Antes de nada tendríamos que apagar la máquina, y cambiar la interfaz de red de NAT a adaptador puente, para que podamos conectarnos desde nuestra máquina real
+
 ![Comprobaciones](images/13.png)  
 
 ### Conexiones desde otra máquina  
